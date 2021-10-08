@@ -12,6 +12,7 @@ body{
     color: #fff;
     height: 40px;
     text-align: center;
+    padding-top: 5px;
 }
 
 .nested{
@@ -19,6 +20,19 @@ body{
     padding: 5px;
 }
 
-.space{
+.small{
+    padding: 5px;
+
+}
+
+.h-30{
     height: 30px;
+}
+
+.h-50{
+    height: 50px;
+}
+
+.pd-15{
+    padding: 15px 0;
 }
