@@ -1,0 +1,24 @@
+/*GENERAL*/
+
+body{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    background-color: dodgerblue;
+    color: #fff;
+    height: 40px;
+    text-align: center;
+}
+
+.nested{
+    background-color: greenyellow;
+    padding: 5px;
+}
+
+.space{
+    height: 30px;
+}
